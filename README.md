@@ -21,4 +21,5 @@ The only assumption I made was that I can retrieve information about roads by ca
 Also I assumed the information returned, if the road exists, has got the same properties as given in the document. Any others would be ignored.
 
 **Relevant information**
-Followed SOLID principles mainly. Tests are done by the fake technique.
+Followed SOLID principles mainly. Tests are done by the fake technique. 
+**I haven't used any TfL developer key**, since I couldn't find a clear way to make it. However, the API seems to work without these keys.
